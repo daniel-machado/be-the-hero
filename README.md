@@ -12,8 +12,6 @@
 
   <a href="https://github.comdaniel-machado/be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/daniel-machado/be-the-hero.svg"></a>
-    
-   <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/daniel-machado/be-the-hero?label=blue">
  
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red"></a>
